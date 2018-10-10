@@ -6,10 +6,8 @@ header {
      display: block;
      padding: 30px;
      position: static;
-     top: 0;
      width: 100%;
      box-sizing: border-box;
-     left: 0;
      color: white;
 }
 
